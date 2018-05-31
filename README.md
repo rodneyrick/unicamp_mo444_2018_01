@@ -1,1 +1,3 @@
-# unicamp_mo444_2018_01
+# Aulas da Unicamp MO444 de 2018-01
+
+Para estudos.
